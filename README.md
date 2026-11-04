@@ -1,4 +1,4 @@
-# VYGEO2026
+# VYGEO2026 vylepesena verze
 
 toto je zkusebni repositar pro VYGEO
 
